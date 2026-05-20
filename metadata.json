@@ -1,0 +1,6 @@
+{
+  "name": "Smart Waste Collection System",
+  "description": "An interactive, visually stunning dashboard and DSA simulator for optimizing municipal waste collection using routing algorithms and priority queues.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
